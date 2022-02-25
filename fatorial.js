@@ -7,4 +7,4 @@ for( var i = numeroMultiplica ; i> 0; i--)
     resultado = aleatorio * numeroMultiplica
 }
 
-console.log("testando")
+console.log("alo alo")
