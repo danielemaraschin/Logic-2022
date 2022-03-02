@@ -1,3 +1,3 @@
-for(x = 0; x<21; x++){
+for(x = 0; x<10; x++){
         console.log(x)
 }
