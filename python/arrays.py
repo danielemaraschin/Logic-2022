@@ -5,4 +5,4 @@ preco3 = 200
 precos = [20, 50, 200]
 
 print (precos[0])
-print(preco.index(200))
+print(precos.index(200))
