@@ -1,15 +1,22 @@
 velocidadeCarro = int(input("Qual a veloc do carro?"))    
 velocidadeMaxima = 80
 
-if velocidadeCarro <= velocidadeMaxima : 
+velocidade_carro = int(input('Qual a veloc do carro?'))    
+velocidadeMaxima = 80
+
+if velocidade_carro <= velocidadeMaxima : 
     print("Não levou multa!")
-elif velocidadeCarro > velocidadeMaxima and velocidadeCarro <= (velocidadeMaxima + 10): 
+elif velocidade_carro > velocidadeMaxima and velocidade_carro <= (velocidadeMaxima + 10):
     print(" Levou multa leve.")
-elif velocidadeCarro > (velocidadeMaxima + 10) and velocidadeCarro < (velocidadeMaxima + 20){
+elif velocidade_carro > (velocidadeMaxima + 10) and velocidade_carro < (velocidadeMaxima + 20):
     print("Levou multa grave.")
-else : 
+elif velocidade_carro > int(velocidadeMaxima +20): 
     print("Levou multa gravíssima.")
- 
+
+
+
+
+
 
 
 
