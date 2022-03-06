@@ -3,9 +3,9 @@ velocidadeMaxima = 80
 
 if velocidadeCarro <= velocidadeMaxima : 
     print("Não levou multa!")
-elif velocidadeCarro > velocidadeMaxima and velocidadeCarro <= (velocidadeMaxima + 10)): 
+elif velocidadeCarro > velocidadeMaxima and velocidadeCarro <= (velocidadeMaxima + 10): 
     print(" Levou multa leve.")
-elif (velocidadeCarro > (velocidadeMaxima + 10) and velocidadeCarro < (velocidadeMaxima + 20)){
+elif velocidadeCarro > (velocidadeMaxima + 10) and velocidadeCarro < (velocidadeMaxima + 20){
     print("Levou multa grave.")
 else : 
     print("Levou multa gravíssima.")
@@ -13,11 +13,7 @@ else :
 
 
 
-
-
-
-#
-# esse código esta no#
+# esse código esta no replit
 # verificar se carro levou multa
 ##veloc_maxima  = 80
 #multa_leve >= velocidade_maxima + 10
