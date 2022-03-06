@@ -1,16 +1,5 @@
-var velocidadeMaxima = 80
-var velocidade = prom
-
-
-
-
-
-
-
-
-/*
+'''
 verificar se carro levou multa
-a velocidade do carro é recebida pelo usuario
 veloc_maxima  = 80
 multa_leve >= velocidade_maxima + 10
 multa_grave >= velocidade_maxima + 11
@@ -26,4 +15,5 @@ multa_gravissima > velocidade_maxima + 20
   b1) loop de 1 a numero
         fatorial = fatorial * numeroQestaInterandoNaHora (ou i)
  C)printar na tela a msg correspondente
-*/
+
+'''
